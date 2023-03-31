@@ -92,7 +92,7 @@ var config_data = `
         "1": "Attempted but failed<br>",
         "0": "Not attempted"
       },
-      "defaultValue": "x"
+      "defaultValue": "0"
     }
   ],
   "teleop": [
@@ -165,7 +165,7 @@ var config_data = `
         "1": "Attempted but failed<br>",
         "0": "Not attempted"
       },
-      "defaultValue": "x"
+      "defaultValue": "0"
     },
     { "name": "Total # of alliance<br>robots docked/engaged",
       "code": "dn",
